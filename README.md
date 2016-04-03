@@ -7,3 +7,4 @@ Swanfal, Johnny, 40 Zhou
 1.起一个响亮的标题！
 2.完成HTML页面。
 3.完成Content文档。
+4.寻找相关网站的维基资料，放入Doc文件夹中。（40）
